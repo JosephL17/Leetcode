@@ -24,8 +24,14 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/JosephL17/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JosephL17/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/JosephL17/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JosephL17/Leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/JosephL17/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
