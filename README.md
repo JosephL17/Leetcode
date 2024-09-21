@@ -13,3 +13,19 @@ Copy code
 Each file is named using the format `XXX_problem_title.py`, where `XXX` is the problem number and `problem_title` is the title of the problem.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/JosephL17/Leetcode/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/JosephL17/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/JosephL17/Leetcode/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
