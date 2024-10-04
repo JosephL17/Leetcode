@@ -22,6 +22,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 | [0001-two-sum](https://github.com/JosephL17/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/JosephL17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/JosephL17/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/JosephL17/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JosephL17/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/JosephL17/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
