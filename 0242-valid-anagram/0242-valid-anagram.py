@@ -1,23 +1,14 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        s_lower = s.lower()
-        t_lower = t.lower()
-        dict_of_s = {}
-        dict_of_t = {}
-
-        if len(s_lower) != len(t_lower):
-            return False
+        # Create a Counter object for the first string 's'
+        # Counter counts the occurrences of each character in 's'
+        result1 = Counter(s)
         
-        for letter in s_lower:
-            if letter not in dict_of_s:
-                dict_of_s[letter] = 1
-            else:
-                dict_of_s[letter] += 1
+        # Create a Counter object for the second string 't'
+        # This counts the occurrences of each character in 't'
+        result2 = Counter(t)
 
-        for letter in t_lower:
-            if letter not in dict_of_t:
-                dict_of_t[letter] = 1
-            else:
-                dict_of_t[letter] += 1
-
-        return dict_of_t == dict_of_s
+        # Compare the two Counter objects
+        # If they are equal, it means both strings have the same characters
+        # with the same frequency, thus they are anagrams
+        return result1 == result2
