@@ -75,5 +75,6 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/JosephL17/Leetcode/tree/master/0009-palindrome-number) |
 | [2383-add-two-integers](https://github.com/JosephL17/Leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
