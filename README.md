@@ -40,6 +40,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JosephL17/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/JosephL17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JosephL17/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -77,4 +78,8 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 | ------- |
 | [0009-palindrome-number](https://github.com/JosephL17/Leetcode/tree/master/0009-palindrome-number) |
 | [2383-add-two-integers](https://github.com/JosephL17/Leetcode/tree/master/2383-add-two-integers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JosephL17/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
