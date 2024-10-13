@@ -75,6 +75,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 | [0125-valid-palindrome](https://github.com/JosephL17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/JosephL17/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JosephL17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0908-middle-of-the-linked-list](https://github.com/JosephL17/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -88,4 +89,5 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JosephL17/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0908-middle-of-the-linked-list](https://github.com/JosephL17/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
