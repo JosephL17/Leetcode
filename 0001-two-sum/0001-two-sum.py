@@ -1,13 +1,17 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        # Initialize an empty hashmap to store numbers and their indices
         h = {}
-        # store value and index in hashmap as key/value
+        
+        # Iterate over the list of numbers with their indices
         for i, num in enumerate(nums):
-            h[num] = i
-        # loop through nums array to get the index we need for i
-        for i, num in enumerate(nums):
-        # create variable for desired value by subtracting target by current num in list
+            # Calculate the complement value needed to reach the target
             value = target - num
-            # as we loop through nums list, check if value is in hashmap and i doesnt equal j
-            if value in h and h[value] != i:
-                return [i, h[value]]
+            
+            # Check if the value already exists in the hashmap
+            if value in h:
+                # If it exists, return the index of the complement and the current index
+                return [h[value], i]
+            
+            # If the value does not exist, store the current number and its index in the hashmap
+            h[num] = i
