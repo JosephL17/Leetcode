@@ -44,6 +44,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JosephL17/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JosephL17/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/JosephL17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JosephL17/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/JosephL17/Leetcode/tree/master/0242-valid-anagram) |
@@ -75,6 +76,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JosephL17/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/JosephL17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/JosephL17/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/JosephL17/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -99,4 +101,8 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/JosephL17/Leetcode/tree/master/0605-can-place-flowers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JosephL17/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
