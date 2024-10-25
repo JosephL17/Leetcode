@@ -20,6 +20,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JosephL17/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/JosephL17/Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JosephL17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/JosephL17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/JosephL17/Leetcode/tree/master/0283-move-zeroes) |
@@ -76,6 +77,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/JosephL17/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JosephL17/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/JosephL17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/JosephL17/Leetcode/tree/master/0141-linked-list-cycle) |
