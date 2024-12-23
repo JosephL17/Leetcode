@@ -22,6 +22,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 | [0001-two-sum](https://github.com/JosephL17/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/JosephL17/Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JosephL17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/JosephL17/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JosephL17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/JosephL17/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/JosephL17/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -32,12 +33,14 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 | ------- |
 | [0001-two-sum](https://github.com/JosephL17/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/JosephL17/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/JosephL17/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JosephL17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JosephL17/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/JosephL17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JosephL17/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JosephL17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JosephL17/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/JosephL17/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -52,6 +55,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JosephL17/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JosephL17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -64,6 +68,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JosephL17/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JosephL17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
