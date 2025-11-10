@@ -104,6 +104,7 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/JosephL17/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/JosephL17/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/JosephL17/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JosephL17/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
