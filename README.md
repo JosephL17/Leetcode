@@ -119,4 +119,20 @@ Each file is named using the format `XXX_problem_title.py`, where `XXX` is the p
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/JosephL17/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JosephL17/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JosephL17/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JosephL17/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JosephL17/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
